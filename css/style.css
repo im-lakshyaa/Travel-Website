@@ -8,9 +8,12 @@
 
 h5.custom-bg{
     background-color: #d4dddbdc;
-    width: 290px;
+    width: 80%;
+    max-width :18rem;
     border-radius: 8px;
-    margin-top: 170px ;
+    margin-top: 25vh;
     text-align: center;
-    padding: 3px;
+    padding: 0.3rem;
+    word-wrap: break-word;
+    white-space: normal;
 }
