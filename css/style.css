@@ -17,3 +17,10 @@ h5.custom-bg{
     word-wrap: break-word;
     white-space: normal;
 }
+.mid{
+    background: url('/html/image/philipp-kammerer-6Mxb_mZ_Q8E-unsplash.jpg') no-repeat center center;
+      background-size: cover;  
+      height: 600px;            
+      position: relative;
+      color: white;
+}
